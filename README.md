@@ -8,7 +8,8 @@ When you have Processing installed, simply open the Snake_Game folder in Process
 
 ## Usage
 The game is my implementation of the classic game "Snake": https://en.wikipedia.org/wiki/Snake_(video_game_genre)
-The game can be played either in singleplayer or multiplayer modes. The snake is controlled using the arrow keys in singleplayer mode, while in multiplayer mode, the firste player uses the arrow keys and the second player uses the WASD keys. Alternatively, the second player can be set to be controlled by the AI, with both "Easy", "Medium" and "Hard" difficulties available. Lastly, the spacebar key can be pressed, in order to pause or unpause the game.
+
+The game can be played either in singleplayer or multiplayer modes. The snake is controlled using the arrow keys in singleplayer mode, while in multiplayer mode, the firste player uses the arrow keys and the second player uses the WASD keys. Alternatively, the user can set the second player to be controlled by the AI, with both "Easy", "Medium" and "Hard" difficulties available. Lastly, the spacebar key can be pressed, in order to pause or unpause the game.
 
 ## Screenshots
 ![image](https://github.com/FrederikGantzel/Snake_Game/assets/91853323/22c21053-a428-4185-8c2e-70992396e60b)
